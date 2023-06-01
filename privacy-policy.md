@@ -20,7 +20,7 @@ title: "Privacy policy"
                     technologies such as Google Analytics, Google Admob and Facebook Audience Network, who are governed by their
                     own privacy policies. We collect the data related to profiling of different parts of the application. Data 
                     collected is in aggregated form and analyzed as such. Also, we use anonymous identifiers when you interact 
-                    with analytics and advertising services. As such, there’s no way Raytechnos can map data collected to any
+                    with analytics and advertising services. As such, there’s no way app can map data collected to any
                     individual user or device. The kind of information collected includes, but is not limited to, type of device
                     or version of the OS you are using, general location data, app crash report, user sessions information and 
                     general pattern of app use. Also, we save your application data and preferences for personalization. This 
