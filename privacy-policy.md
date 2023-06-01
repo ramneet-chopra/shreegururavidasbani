@@ -3,9 +3,9 @@ layout: standard
 title: "Privacy policy"
 ---
 
-        <div class="row">
-            <div>
-                <br>
+<div class="row">
+    <div>
+        <br>
                 <p>
                     <b> About this document </b> <br> Bani Satguru Ravidas ji considers user privacy of utmost importance and take all precautions
                     to protect user privacy during use of our android and ios apps. This document details privacy policy for our android and ios apps. 
